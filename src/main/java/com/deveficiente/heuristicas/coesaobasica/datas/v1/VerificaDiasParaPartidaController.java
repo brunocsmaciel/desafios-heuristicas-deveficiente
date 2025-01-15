@@ -39,7 +39,7 @@ public class VerificaDiasParaPartidaController {
 	public static void main(String[] args) {
 		System.out.println(
 				new VerificaDiasParaPartidaController(new ViagemRepository())
-						.executa(10l));
+						.executa(12l));
 	}
 
 }
